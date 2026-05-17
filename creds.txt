@@ -1,2 +1,0 @@
-uname = vs22
-pword = tv12
